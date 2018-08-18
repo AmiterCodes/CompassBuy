@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CompassBuy:jar">
+    <output-path>C:/ServerLocal/Town of Salem test/plugins</output-path>
+    <root id="archive" name="CompassBuy.jar">
+      <element id="module-output" name="CompassBuy" />
+    </root>
+  </artifact>
+</component>

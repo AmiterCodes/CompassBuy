@@ -1,0 +1,9 @@
+main: me.amitnave.compassbuy.Main
+name: BuyCompass
+author: Amiter
+version: 1.0.0
+description: plugin used to buy a player pointing compass
+commands:
+  buycompass:
+    description: buys a player pointing compass, costs 7500$
+    usage: buycompass
